@@ -1,0 +1,1 @@
+# Marks 'app' as a package; keeps imports clean.
